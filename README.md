@@ -23,6 +23,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" >
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.sosdigital.com.br/wp-content/uploads/2020/08/django-logo-scaled.jpg" >
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="" >
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" >
 
 </div>
