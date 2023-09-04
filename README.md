@@ -23,5 +23,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" >
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.sosdigital.com.br/wp-content/uploads/2020/08/django-logo-scaled.jpg" >
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.sosdigital.com.br/wp-content/uploads/2020/08/django-logo-scaled.jpg](https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124)https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124" >
 
 </div>
