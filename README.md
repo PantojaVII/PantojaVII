@@ -7,7 +7,7 @@ Me chamo **Pantoja**, seja muito bem-vindo(a) ao meu perfil!
 🧠 Pós-graduando em Inteligência Artificial  
 💻 Analista de Sistemas  
 💼 Desenvolvedor de Softwares  
-🤝🏻 Membro da equipe **Córtex AI**  
+🤝🏻 Membro da equipe BERLIM-PAGBANK  
 🎮 Apaixonado por games e tecnologias  
 
 ---
