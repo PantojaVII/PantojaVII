@@ -39,6 +39,6 @@ Me chamo **Pantoja**, seja muito bem-vindo(a) ao meu perfil!
 ---
 
 📫 Entre em contato:  
-[Córtex](https://cortex.tec.br) | [Email](mailto:pantoja@cortex.tec.br)
+[Email](mailto:JVPANTOJAMACIEL@GMAIL.COM)
 
 ---
