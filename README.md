@@ -47,6 +47,5 @@
 ## 📫 Contato  
 
 - 📧 [E-mail](mailto:JVPANTOJAMACIEL@GMAIL.COM)  
-- 💼 LinkedIn _(adiciona o link aqui)_  
 
 ---
